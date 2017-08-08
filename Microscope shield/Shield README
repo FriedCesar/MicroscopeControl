@@ -1,0 +1,3 @@
+This folder contains files for the making of the MicroscopeControl Shield
+We have designed a personalized shield so you can connect the Arduino/Genuino Board ATmega 1280 
+with the Microscope_control_ARD_1_0 code uploaded directly. These two components will be referred as the control board
