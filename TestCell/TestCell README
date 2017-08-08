@@ -1,0 +1,3 @@
+This folder contains the GCode for 3D printing the test cell
+The MicrosopeControl Test Cell allows you to interface Microscope Control directly to a test cell, 
+with slots available for connecting a temperature sensor, a heater slide and separate slots for different interactions.
