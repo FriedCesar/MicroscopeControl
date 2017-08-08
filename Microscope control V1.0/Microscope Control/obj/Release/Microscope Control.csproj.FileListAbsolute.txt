@@ -1,0 +1,83 @@
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.config
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.pdb
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.dll
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.Video.dll
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.xml
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.Video.xml
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.xml
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Form1.resources
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.pdb
+C:\Users\TOSHIBA\Documents\Archivos doctorado\2016-2\Programming\Microscope Control\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csprojResolveAssemblyReference.cache
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.config
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.pdb
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.pdb
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.dll
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.Video.dll
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.dll
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\AForge.Video.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csprojResolveAssemblyReference.cache
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Form1.resources
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Properties.Resources.resources
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-GIT\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csproj.GenerateResource.Cache
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.config
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.pdb
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.dll
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.xml
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Form1.resources
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Properties.Resources.resources
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csproj.GenerateResource.Cache
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.pdb
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.CodeAnalysisLog.xml
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.lastcodeanalysissucceeded
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.manifest
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.application
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csprojResolveAssemblyReference.cache
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.TrustInfo.xml
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe.manifest
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.application
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.config
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.pdb
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.CodeAnalysisLog.xml
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.lastcodeanalysissucceeded
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.dll
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.xml
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csprojResolveAssemblyReference.cache
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Form1.resources
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Properties.Resources.resources
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csproj.GenerateResource.Cache
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe
+C:\Users\fried\Desktop\MIcroscope-control-GIT - Copy - Copy - Copy\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.pdb
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.config
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.pdb
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.manifest
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.application
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.pdb
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.CodeAnalysisLog.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe.lastcodeanalysissucceeded
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\AForge.dll
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\AForge.Video.dll
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.dll
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\AForge.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\AForge.Video.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Newtonsoft.Json.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csprojResolveAssemblyReference.cache
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Form1.resources
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope_Control.Properties.Resources.resources
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.csproj.GenerateResource.Cache
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.TrustInfo.xml
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.exe.manifest
+C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\obj\Release\Microscope Control.application

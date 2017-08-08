@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control\bin\Release\Microscope Control.exe">
+   <Modules>
+    <Module Name="microscope control.exe">
+     <Namespaces>
+      <Namespace Name="Microscope_Control">
+       <Types>
+        <Type Name="Board" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2017-07-07 05:19:33Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implemente IDisposable en 'Board' porque crea miembros de los tipos IDisposable siguientes: 'Timer', 'SerialPort'. Si ya se había distribuido 'Board', agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="Camera" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2017-07-07 05:19:33Z" FixCategory="NonBreaking">
+           <Issue Name="NonBreaking" Certainty="95" Level="CriticalError">Implemente IDisposable en 'Camera' porque crea miembros de los tipos IDisposable siguientes: 'Socket', 'BackgroundWorker'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#LiveView_DoWork(System.Object,System.ComponentModel.DoWorkEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-07-07 05:19:33Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control" File="Camera.cs" Line="372">El objeto 'memstream' admite Dispose más de una vez en el método 'Camera.LiveView_DoWork(object, DoWorkEventArgs)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 372</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SendRequest(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2017-07-07 05:19:33Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\ca.hernandez11\Desktop\MIcroscope-control-Current\Microscope control V1.0\Microscope Control" File="Camera.cs" Line="120">El objeto 'WebRequest.Create("http://10.0.0.1:10000/sony/camera ").GetResponse().GetResponseStream()' admite Dispose más de una vez en el método 'Camera.SendRequest(string, string, string)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 120</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>No usar Dispose varias veces en objetos</Name>
+   <Description>Un método Dispose correctamente implementado se puede llamar varias veces sin producir ninguna excepción. Sin embargo, esto no está garantizado y, para evitar generar una excepción System.ObjectDisposedException, no debe llamar al método Dispose más de una vez en un objeto.</Description>
+   <Resolution Name="Default">El objeto {0} admite Dispose más de una vez en el método {1}. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 372</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Los tipos que poseen campos descartables deben ser descartables</Name>
+   <Description>Los tipos que declaran miembros descartables también deben implementar IDisposable. Si el tipo no posee ningún recurso no administrado, no implementar un finalizador.</Description>
+   <Resolution Name="DependsOnFix">Implemente IDisposable en {0} porque crea miembros de los tipos IDisposable siguientes: {1}. Si ya se había distribuido {0}, agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Resolution>
+   <Resolution Name="NonBreaking">Implemente IDisposable en {0} porque crea miembros de los tipos IDisposable siguientes: {1}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>
